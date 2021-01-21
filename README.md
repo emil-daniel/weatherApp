@@ -10,6 +10,6 @@
 ## Project structure
 
 ```
-   Get own api key from https://https://openweathermap.org/
+   Get own api key from https://openweathermap.org/
 
 ```
